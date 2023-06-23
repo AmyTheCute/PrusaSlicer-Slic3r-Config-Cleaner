@@ -6,3 +6,5 @@ oh god.
 
 only deals with all shared config options right now
 doens't generate the entire file for now (vendor etc)
+
+Brain mush
